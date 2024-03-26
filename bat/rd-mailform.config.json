@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "mail.hidraajans.com",
+  "port": 465,
+  "username": "conycord@hidraajans.com",
+  "password": "sahtesincap.31",
+  "recipientEmail": "stanasxqwe@gmail.com"
+}
